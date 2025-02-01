@@ -1,0 +1,14 @@
+.tech-world-heading {
+  /* Previous styles */
+  text-shadow: 2px 2px 4px rgba(202, 220, 12, 0.3);
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
